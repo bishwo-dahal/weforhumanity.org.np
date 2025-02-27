@@ -1,97 +1,23 @@
 ---
-title: Est earum quaerat molestias natus deleniti quos culpa eum
-tags: ['tag3', 'tag4']
-excerpt: Dolore harum rem. Ut aut non accusamus. Autem corrupti ut laborum omnis. Ut necessitatibus iusto aliquam.
-createdAt: 2019-11-02 11:26:00
+title: Food Donation Program
+tags: ['Food','Donate', 'Food Donation']
+excerpt: मानवताका लागि हामी संस्थाले २०७३ साल बैशाख ११ गते पीडित तथा अशक्त समुदायका लागि खाद्यदान संकलन कार्यक्रम आयोजना गरी स्थानिय स्रोत साधनको उपयोग गर्दै सहयोग संकलन गरेको थियो। संस्थाका पदाधिकारी, सदस्यहरू, तथा स्थानिय व्यक्तिहरूको सहभागितामा विभिन्न खाद्य तथा आर्थिक सहयोग संकलन गर्दै कार्यक्रम सफलतापूर्वक सम्पन्न भयो।
+createdAt: 2016-04-23 11:26:00
 ---
 
-## Ipsum fugit ab dolor nesciunt magnam
+## खाद्यदान कार्यक्रम प्रतिवेदन
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, `commodo vitae`, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. [Donec non enim](#) in turpis pulvinar facilisis. Ut felis.
+**सामाजिक सांस्कृतिक र भौगोलिक विविधता** युक्त समाजलाई आर्थिक रूपले सबल बनाउनका लागि स्थानिय स्रोत साधन र अवसरको प्रयोग गर्दै समाजका नवयुवाहरुको समावेशमा "मानवताका लागि हामी" यस संस्थाले समाजमा रहेका पीडित समुदायभित्र पनि शारीरिक तथा आर्थिक तरिकाले कमजोर अर्थात् अशक्त तथा अरु प्रयोगार्थको लागि महिदान संकलन कार्यक्रम" मिती २०७३ साल बैशाख ११ मा सम्पन्न गरियो।
+सुश्री
+बिहान ८:३० बजेदेरिए ८:०० बजेसम्म यस संस्थाका अध्यक्ष श्री स्वरोज खतिवडा, सचिव सुश्री नानी कुमारी थामी, कोषाध्यक्षा संगम भण्डारी, सह-सचिव सुश्री करिश्मा श्रेष्ठ, सदस्यहरू सुश्री स्वस्थानी चौलागाई, श्री सुरेन्द्र चौलागाई, श्री रचिन सवेदी, सभी मनिषा के.सी, सती मना चौलागाई तथा संस्थापण सदस्यहरू सुश्री लिलादेवि थापा, सुनी सिता जुटि, पुत्री कविता श्रेष्ठ, सुनी सरस्वती वस्नेत, स्पश्री सचिन न्यौपाने, रात्री कोपिला श्रेष्ठ लगायतका सक्रिय सदस्यहरू, मिलीजुली बचत तथा ऋण सहकारी संस्था लि. (बसपार्क अगाडी जम्मा भई ८:०० बजे जिलुको लागि प्रस्थान गरियो। करिब डेढ घण्टाको हिडवाड पश्चात १०:३० बजे जिल्लामा कार्यक्रमको पहिलो कार्यक्षेत्र निर्धारण गर्ने निर्णय गरियो। तर 'मानताका लागि हामी (WFH)' का कार्यसमितीका सदस्यहरु, संस्थापक सदस्यहरु तथा यहाँका स्थानिय सारको व्यक्तिहरू गाभा रहेर १०:३० देखि ११:०० बजे सम्म कार्यक्रम अगिको छोटो छलफल गरियो। अनौपचारिक यस छलफल पश्चात ११:०० बजेबाट कार्यक्रमको प्रारम्भ गरियो। सुष्ठिदान संकलन कार्यक्रममा स्थानियस्तरका नागरिकहरुबाट स्वच्छ छाल, चामल, छागहुँ आलु तथा पैसा लगायतका सामाग्रीहरू संकलन गर्दै मोहोरिया, गैंगेगाउ, कुमालगाउँ, सुपल
 
-1.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2.  Aliquam tincidunt mauris eu risus.
+### कार्यक्रमका केही झलकहरू / तस्वीरहरू
+### खाद्य संकलन
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.
+* Food Collection from locals ![Blood donors at WFH](/images/programs/food_donation_2073/food_collection_from_locals.JPG)
+* Food collection ![Food Collection](/images/programs/food_donation_2073/food_collection_program.jpg)
+* Food collection team ![Food collection team](/images/programs/food_donation_2073/food_collection_team.jpg)
+### खाद्य वितरण
 
-### Aliquid nihil laudantium debitis saepe
-
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-*   Aliquam tincidunt mauris eu risus.
-
-```js{3,4,15-25}
-
-import {x, y} as p from 'point';
-const ANSWER = 42;
-
-class Car extends Vehicle {
-  constructor(speed, cost) {
-    super(speed);
-
-    var c = Symbol('cost');
-    this[c] = cost;
-
-    this.intro = `This is a car runs at
-      ${speed}.`;
-  }
-}
-
-for (let num of [1, 2, 3]) {
-  console.log(num + 0b111110111);
-}
-
-function $initHighlight(block, flags) {
-  try {
-    if (block.className.search(/\bno\-highlight\b/) != -1)
-      return processBlock(block.function, true, 0x0F) + ' class=""';
-  } catch (e) {
-    /* handle exception */
-    var e4x =
-        <div>Example
-            <p>1234</p></div>;
-  }
-  for (var i = 0 / 2; i < classes.length; i++) {
-  // "0 / 2" should not be parsed as regexp
-    if (checkCondition(classes[i]) === undefined)
-      return /\d+[\s/]/g;
-  }
-  console.log(Array.every(classes, Boolean));
-}
-
-export  $initHighlight;
-```
-
-#### Vero fugiat corrupti possimus sit voluptatem eos
-
-* List Element 1
-  * List Element 1-1
-  * List Element 1-2
-    * List Element 1-2-1
-    * List Element 1-2-2
-      * List Element 1-2-2-1
-    * List Element 1-2-3
-  * List Element 1-3
-* List Element 2
-
-### Porro et saepe alias ullam voluptatibus ut est
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
-
-## Eum eveniet optio neque
-
-### Est excepturi quia molestiae aut
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
-
-### Maiores tempora repellendus et
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
+* Food Distribution to special abled people ![Food Distribution to special abled people ](/images/programs/food_donation_2073/distributed_food_to_needy.JPG)
+* Food Donation Program![Food Donation](/images/programs/food_donation_2073/food_donation_program.JPG)

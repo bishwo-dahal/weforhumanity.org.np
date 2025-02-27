@@ -3,11 +3,11 @@
     <div class="container px-5 py-12 mx-auto">
       <div class="text-center pb-12 ">
         <h2 class="text-4xl">
-          हाम्रो रेकेन्त काम हरु
+          Our recent works
         </h2>
         <p
           class="text-2xl">
-          हमी क गर्क्सौ तपाईं हरु यहाँ हेर्न सक्नु हुन्क्स 
+          See what we are doing to help community!
         </p>
       </div>
       <div class="flex flex-wrap -m-4">

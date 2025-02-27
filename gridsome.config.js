@@ -24,6 +24,7 @@ var embedConfig = {
 
 module.exports = {
   siteName: 'We for Humanity',
+  siteDescription:"",
   permalinks: {
     trailingSlash: false
   },

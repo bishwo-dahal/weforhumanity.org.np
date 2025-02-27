@@ -1,98 +1,47 @@
 ---
-title: Quo adipisci suscipit aut mollitia occaecati.
-tags: ['tag3', 'tag4']
-excerpt: Quia aut eos in eligendi odio. Necessitatibus voluptatem autem quod. Ut est sint et quos nam aliquid repudiandae voluptas. Molestiae rerum culpa laudantium vitae maxime mollitia cum.
-createdAt: 2019-11-03 11:26:00
+title: Blood Donation Program
+tags: ['Donation', 'Blood', "Blood Donation"]
+excerpt: मानवताका लागि हामी संस्थाले २०७३ जेठ ३२ गते विश्व रक्तदाता दिवसको अवसरमा चरिकोट हस्पिटल दोलखाको सहयोगमा रक्तदान कार्यक्रम आयोजना गरी १९ जनाले रक्तदान गरेका थिए। संस्थाका पदाधिकारी, सदस्यहरू, तथा अतिथिहरूको उपस्थिति एवं समर्पणका साथ कार्यक्रम सफलतापूर्वक सम्पन्न भयो।
+createdAt: 2016-06-14 11:26:00
 
 ---
 
-## Ipsum fugit ab dolor nesciunt magnam
+## रक्तदान कार्यक्रम प्रतिवेदन
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, `commodo vitae`, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. [Donec non enim](#) in turpis pulvinar facilisis. Ut felis.
+**नेपालको आज जन स्थिति परिस्थिती** छ त्यसलाई ठिक गर्न
+हामी कुनै पनि निकायको मुख ताक्ने भन्दा हामी आफै सकारात्मक
+सोचविचार भएका असल नितिन चरित्रवान, इमान्दार समाजक।
+नवयुवाहरूको समावेगमा "मानवताका लागि हामी" संस्थाले मिति
+२०७३ जेठ ३२ गते विश्व रक्तदाता दिवसको अवसर पारि समाजका
+ति व्यक्तिहरु जसले रगतको अभावमा जीवन र मृत्युसंग लडिरहेका
+छन् उनीहरुको हकहित र जीवन बचाउको निम्ती चरिकोट
+हस्पिटल चरिकोट दोलखाको सहयोगमा १ दिने रक्तदान कार्यक्रम
+सञ्चालन गरिएको छ।
+विहान 8:30 बजे सम्म यस संस्थाका अध्यक्ष श्री खराज खतिवडा
+उपाध्यक्ष श्री धनराज तामाङ, सचिव सुश्री बानी कुमारी थामी
+कोषाध्यक्ष श्री संगम भण्डारी सदस्यहरू श्री सुरेन्द्र गैलागाई,
+श्री प्रवेश थापा, श्री रखिन सुवेदी खत्री स्वस्थानी चौलागाई
+सुश्री मनिषा के.सी एवम संस्थाको संस्थापक सदस्यहरू श्री विपिन
+सुवेदी, श्री केशव काफ्ले, श्री हिमाल वस्नेत लगायतका सक्रिय
+सदस्यहरू श्री कालिन्चोक उच्च माध्यमिक विद्यालय परिसर शीघ्र
+जम्मा भई 6:00 बजे सम्म थानूर लगाउने, फुसी तथा टेवलको
+व्यवस्था गर्ने, खाजाको व्यवस्था गर्ने, रक्तदान गर्न इच्छुक तयालाको
+नाम संकलन गर्ने जस्ता कार्यहरु गरियो। 6:00 बजे प्राथमिक
+चरिकोट हस्पिटलका प्रतिनिधि की लक्ष्मण रेग्मी सहित मिसति
+सुनन। पोखरेल, संगिता महत, सावित्री खत्री उपस्थित हुनभयो।
+१५ मिनेटको कार्यक्रमको व्यवस्थापन पछि औपचारिक रूपमा
+रक्तदान कार्यक्रमको शुरुवात यसै संस्थाका उपाध्यक्ष श्री धनराज
+तामाङको उद्घाटनबाट सुरु भयो। यस संस्थाको अध्यक्ष भी
+सरोन खतिवडाको सभापतित्वमा भएको यस कार्यक्रमम
+अतिथीको रुपमा कालिन्चोक उच्च मा.वि एवम चरिकोट बहुपुरि
+क्याम्पसका प्राध्यापकहरू श्री चन्द्रप्रकाश, श्री महेश घिमिरे, श्री दिपक वस्नेत तथा किमती माया घिमिरे उपस्थित हुनु भएको थियो।
 
-1.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2.  Aliquam tincidunt mauris eu risus.
+उहाँहरूको उपास्पन ग्रहण प्रज्चात रक्तदान गर्न उत्प्रेरणा प्रदान गर्न छोटि रक्तदान सम्बन्धि मन्तब्य श्री लक्ष्मण रेग्मीद्वारा गरियो। उक्त मन्तव्य पश्चात यस कालिन्चोक उच्च मा.वि को प्राध्यापक श्री चन्द्रप्रकाश घिमिरेबाट रक्तदानको सुरुवात गरियो। त्यसपछि ऋण: श्री कृष्ण तामाढ़, सुश्री कला कुमारी खत्री, स्पृश्री बजना प्राखिन, श्री विपिन सुवेदी, सुनी सविता सुनुवार, सुश्री दिपूगालिका श्रेष्ठ, सी. हेमन्त राई, श्री सोनाम शेर्ण भी फेशव काफ्ले सुश्री करुणा सिवाकोटि, श्री संगम भण्डारी, श्री हिमाल बस्ने ? श्री अमृत श्रेष्ठ, श्री सुगम बस्नेत, श्री गठिन थाण, श्री विमल रोक्का श्री प्रविन पाठक र सुरज गाह गरि १९ जनाको आफ्नो अमुल्य रगत दान गर्नुभएको छ। रक्तदान कार्यपछि संस्थाको छाप सहितको सम्मान पप्त श्री सरोज खतिवडाबाट वितरण गरि विधिवत रुपमा यस कार्यक्रमको अन्त्य गरियो।
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.
 
-### Aliquid nihil laudantium debitis saepe
+### कार्यक्रमका केही झलकहरू / तस्वीरहरू
 
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-*   Aliquam tincidunt mauris eu risus.
-
-```js{3,4,15-25}
-
-import {x, y} as p from 'point';
-const ANSWER = 42;
-
-class Car extends Vehicle {
-  constructor(speed, cost) {
-    super(speed);
-
-    var c = Symbol('cost');
-    this[c] = cost;
-
-    this.intro = `This is a car runs at
-      ${speed}.`;
-  }
-}
-
-for (let num of [1, 2, 3]) {
-  console.log(num + 0b111110111);
-}
-
-function $initHighlight(block, flags) {
-  try {
-    if (block.className.search(/\bno\-highlight\b/) != -1)
-      return processBlock(block.function, true, 0x0F) + ' class=""';
-  } catch (e) {
-    /* handle exception */
-    var e4x =
-        <div>Example
-            <p>1234</p></div>;
-  }
-  for (var i = 0 / 2; i < classes.length; i++) {
-  // "0 / 2" should not be parsed as regexp
-    if (checkCondition(classes[i]) === undefined)
-      return /\d+[\s/]/g;
-  }
-  console.log(Array.every(classes, Boolean));
-}
-
-export  $initHighlight;
-```
-
-#### Vero fugiat corrupti possimus sit voluptatem eos
-
-* List Element 1
-  * List Element 1-1
-  * List Element 1-2
-    * List Element 1-2-1
-    * List Element 1-2-2
-      * List Element 1-2-2-1
-    * List Element 1-2-3
-  * List Element 1-3
-* List Element 2
-
-### Porro et saepe alias ullam voluptatibus ut est
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
-
-## Eum eveniet optio neque
-
-### Est excepturi quia molestiae aut
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
-
-### Maiores tempora repellendus et
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
+* Blood donors at WFH ![Blood donors at WFH](/images/programs/blood_donation_2073/all_blood_donors_at_wfh.jpg)
+* Blood donation by Himal Basnet and Sangam Bhandari ![Blood donors at WFH](/images/programs/blood_donation_2073/blood_donated_by_himal_basnet_and_sangam_bhandari.JPG)
+* Blood donation Group![Blood donors at WFH](/images/programs/blood_donation_2073/blood_donation_members_group_image.JPG)
+* Certificate Distribution to donors ![Certificate Distribution to donors](/images/programs/blood_donation_2073/certificate_handover_to_blood_donars.JPG)

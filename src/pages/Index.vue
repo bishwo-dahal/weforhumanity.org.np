@@ -2,7 +2,7 @@
   <Layout>
     <PageHeader>
       <template v-slot:image>
-        <g-image src="~/assets/images/main_page_picture.jpeg" />
+        <g-image src="~/assets/images/main_page_picture.jpeg"/>
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">

@@ -3,7 +3,7 @@
         <h3 class="text-center text-3xl pb-5">Meet our Team</h3>
       <div class="profile-container">
         <div class="profile-card" v-for="(profile, index) in profiles" :key="index">
-          <img class="avatar" :src="profile.avatarUrl" :alt="profile.name" />
+          <g-image class="avatar" :src="profile.avatarUrl || '/images/team/placeholder.jpg'" :alt="profile.name" />
           <div class="details">
             <h3>{{ profile.name }}</h3>
             <p class="post">{{ profile.post }}</p>
@@ -21,34 +21,46 @@
       return {
         profiles: [
           {
-            name: "John Doe",
-            post: "Software Engineer",
-            description: "John is a passionate software engineer with over 10 years of experience in building scalable web applications. He specializes in frontend development and has a keen eye for creating responsive user interfaces.",
-            avatarUrl: "https://via.placeholder.com/120",
+            name: "Birkha Gubaju",
+            post: "President",
+            description: "Birkha Gubaju",
+            avatarUrl: "/images/team/birkha_gubaju.jpg",
           },
           {
-            name: "Jane Smith",
-            post: "Product Manager",
-            description: "Jane is an experienced product manager with a strong background in leading cross-functional teams. She excels at strategic planning, project management, and delivering results that meet both customer needs and business goals.",
-            avatarUrl: "https://via.placeholder.com/120",
+            name: "Prabesh Thapa",
+            post: "Vice President",
+            description: "Prabesh Thapa",
+            avatarUrl: "/images/team/prabesh_thapa.jpg",
           },
           {
-            name: "Alice Johnson",
-            post: "UI/UX Designer",
-            description: "Alice is a creative UI/UX designer who focuses on creating intuitive and aesthetically pleasing user experiences. She works closely with developers to ensure designs are seamlessly implemented and enhance the overall usability of the product.",
-            avatarUrl: "https://via.placeholder.com/120",
+            name: "Sarita Moktan Tamang",
+            post: "Secratary",
+            description: "Sarita Tamang",
+            avatarUrl: "/images/team/sarita_moktan.jpg",
           },
           {
-            name: "Bob Williams",
-            post: "Data Scientist",
-            description: "Bob is a data scientist with expertise in machine learning, data analysis, and statistical modeling. He leverages large datasets to generate insights that inform business decisions and improve product features.",
-            avatarUrl: "https://via.placeholder.com/120",
+            name: "Bishwo Dahal",
+            post: "Developer",
+            description: "Bishwo Dahal is Computer Science student at University of Louisiana at Monroe with strong passion for developing software solutions. Proficient in computing technologies, Bishwo has gained hands-on experience in companies including Oak Ridge National Laboratory and NepalEx parcels and Logistics. Here at WFH, he is working to enhance the organization's online presence and secure funding opportunities. ",
+            avatarUrl: "/images/team/bishwo_dahal.jpeg",
           },
           {
-            name: "Emily Brown",
-            post: "DevOps Engineer",
-            description: "Emily is a skilled DevOps engineer with a deep understanding of automating and streamlining development workflows. She works to ensure continuous integration and continuous delivery pipelines are optimized for maximum efficiency.",
-            avatarUrl: "https://via.placeholder.com/120",
+            name: "Kopila Shrestha",
+            post: "Treasurer",
+            description: "Kopila Shrestha",
+            avatarUrl: "/images/team/kopila_shrestha.jpg",
+          },
+          {
+            name: "Jyoti Karki",
+            post: "Member",
+            description: "Jyoti Karki",
+            avatarUrl: "/images/team/jyoti_karki.jpg",
+          },
+          {
+            name: "Bipin Subedi",
+            post: "Member",
+            description: "Bipin Subedi",
+            avatarUrl: "/images/team/bipin_subedi.jpg",
           },
 
         ],
@@ -70,8 +82,8 @@
   }
   
   .profile-card {
-    flex: 1 1 250px; /* Make cards bigger and responsive */
-    max-width: 300px;
+    flex: 1 1 300px; /* Make cards bigger and responsive */
+    max-width: 400px;
     border: 1px solid #ccc;
     border-radius: 10px;
     padding: 20px;

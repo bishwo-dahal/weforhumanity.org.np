@@ -4,7 +4,7 @@
       <div class="w-full lg:w-3/4 flex flex-col md:flex-row md:items-center items-start mx-auto">
         <p
           class="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-200">
-          Did you know that you can easily create your own articles? Checkout our contribution guide.
+          Would you like to contribute to our mission to help community?
         </p>
         <g-link
           to="/pages/contribute"
