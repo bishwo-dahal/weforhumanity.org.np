@@ -24,7 +24,7 @@
           Articles
         </g-link>
         <g-link
-          to="/donate"
+          to="/pages/donate"
           class="mr-5 hidden md:block"
           exact>
           Donate

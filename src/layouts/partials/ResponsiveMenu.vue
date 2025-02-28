@@ -36,7 +36,7 @@
           </g-link>
         </li><li>
           <g-link
-            to="/donate"
+            to="/pages/donate"
             class="inline-block mb-5"
             exact>
             Donate
