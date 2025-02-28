@@ -10,7 +10,7 @@
         </p>
         <p
           class="text-lg md:text-2xl">
-          Without these awesome guys, we were not able to create our site!
+          for everyone helping build our website!
         </p>
       </template>
     </PageHeader>
@@ -24,6 +24,7 @@
             :record="edge.node">
             <template v-slot:link>
               <g-link
+              v-if="edge.node.path"
                 :to="edge.node.path"
                 class="text-smalt-blue-500 hover:text-black inline-flex items-center">
                 Visit website
@@ -39,6 +40,7 @@
                   <path d="M12 5l7 7-7 7" />
                 </svg>
               </g-link>
+              <span v-else></span>
             </template>
           </RecordCard>
         </div>
