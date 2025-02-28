@@ -1,23 +1,25 @@
 ---
 title: Food Donation Program
 tags: ['Food','Donate', 'Food Donation']
-excerpt: मानवताका लागि हामी संस्थाले २०७३ साल बैशाख ११ गते पीडित तथा अशक्त समुदायका लागि खाद्यदान संकलन कार्यक्रम आयोजना गरी स्थानिय स्रोत साधनको उपयोग गर्दै सहयोग संकलन गरेको थियो। संस्थाका पदाधिकारी, सदस्यहरू, तथा स्थानिय व्यक्तिहरूको सहभागितामा विभिन्न खाद्य तथा आर्थिक सहयोग संकलन गर्दै कार्यक्रम सफलतापूर्वक सम्पन्न भयो।
+excerpt: We For Humanity organized a food donation collection program on April 24, 2016, for the affected and disabled communities, using local resources and collecting support. The program was successfully completed with the participation of the organization’s officials, members, and local individuals, collecting various food items and financial contributions.
 createdAt: 2016-04-23 11:26:00
 ---
 
-## खाद्यदान कार्यक्रम प्रतिवेदन
+## Food Donation Report
 
-**सामाजिक सांस्कृतिक र भौगोलिक विविधता** युक्त समाजलाई आर्थिक रूपले सबल बनाउनका लागि स्थानिय स्रोत साधन र अवसरको प्रयोग गर्दै समाजका नवयुवाहरुको समावेशमा "मानवताका लागि हामी" यस संस्थाले समाजमा रहेका पीडित समुदायभित्र पनि शारीरिक तथा आर्थिक तरिकाले कमजोर अर्थात् अशक्त तथा अरु प्रयोगार्थको लागि महिदान संकलन कार्यक्रम" मिती २०७३ साल बैशाख ११ मा सम्पन्न गरियो।
-सुश्री
-बिहान ८:३० बजेदेरिए ८:०० बजेसम्म यस संस्थाका अध्यक्ष श्री स्वरोज खतिवडा, सचिव सुश्री नानी कुमारी थामी, कोषाध्यक्षा संगम भण्डारी, सह-सचिव सुश्री करिश्मा श्रेष्ठ, सदस्यहरू सुश्री स्वस्थानी चौलागाई, श्री सुरेन्द्र चौलागाई, श्री रचिन सवेदी, सभी मनिषा के.सी, सती मना चौलागाई तथा संस्थापण सदस्यहरू सुश्री लिलादेवि थापा, सुनी सिता जुटि, पुत्री कविता श्रेष्ठ, सुनी सरस्वती वस्नेत, स्पश्री सचिन न्यौपाने, रात्री कोपिला श्रेष्ठ लगायतका सक्रिय सदस्यहरू, मिलीजुली बचत तथा ऋण सहकारी संस्था लि. (बसपार्क अगाडी जम्मा भई ८:०० बजे जिलुको लागि प्रस्थान गरियो। करिब डेढ घण्टाको हिडवाड पश्चात १०:३० बजे जिल्लामा कार्यक्रमको पहिलो कार्यक्षेत्र निर्धारण गर्ने निर्णय गरियो। तर 'मानताका लागि हामी (WFH)' का कार्यसमितीका सदस्यहरु, संस्थापक सदस्यहरु तथा यहाँका स्थानिय सारको व्यक्तिहरू गाभा रहेर १०:३० देखि ११:०० बजे सम्म कार्यक्रम अगिको छोटो छलफल गरियो। अनौपचारिक यस छलफल पश्चात ११:०० बजेबाट कार्यक्रमको प्रारम्भ गरियो। सुष्ठिदान संकलन कार्यक्रममा स्थानियस्तरका नागरिकहरुबाट स्वच्छ छाल, चामल, छागहुँ आलु तथा पैसा लगायतका सामाग्रीहरू संकलन गर्दै मोहोरिया, गैंगेगाउ, कुमालगाउँ, सुपल
+**To help strengthen the economically weak society**, We For Humanity organized a donation collection program on April 24, 2016. The program involved local resources and the youth of the community to support those who are physically and financially weak, as well as others in need of help.
 
-### कार्यक्रमका केही झलकहरू / तस्वीरहरू
-### खाद्य संकलन
+At 8:00 AM, the organization's president Mr. Saroj Khatiwada, secretary Ms. Nani Kumari Thami, treasurer Mr. Sangam Bhandari, co-secretary Ms. Karishma Shrestha, members Ms. Swasthani Chaulagai, Mr. Surendra Chaulagai, Mr. Rachin Suvedi, Ms. Manisha KC, Ms. Sati Mana Chaulagai, and founding members Ms. Liladevi Thapa, Sunita Juti, daughter Kavita Shrestha, Saraswati Basnet, Sachin Nyaupane, Kopila Shrestha, and other active members gathered at the Milijuli Saving and Credit Cooperative Ltd. (near the bus park). They left for the district at 8:00 AM. After about one and a half hours of travel, they decided on the first location for the program at 10:30 AM.
+
+Then, from 10:30 AM to 11:00 AM, the members of We For Humanity and local people had a short discussion. After this informal talk, the program officially began at 11:00 AM. During the donation collection, local people donated items such as clothes, rice, potatoes, and money
+
+### Program Highlights / Photos
+### Food Collection
 
 * Food Collection from locals ![Blood donors at WFH](/images/programs/food_donation_2073/food_collection_from_locals.JPG)
 * Food collection ![Food Collection](/images/programs/food_donation_2073/food_collection_program.jpg)
 * Food collection team ![Food collection team](/images/programs/food_donation_2073/food_collection_team.jpg)
-### खाद्य वितरण
+### Food Distribution
 
 * Food Distribution to special abled people ![Food Distribution to special abled people ](/images/programs/food_donation_2073/distributed_food_to_needy.JPG)
 * Food Donation Program![Food Donation](/images/programs/food_donation_2073/food_donation_program.JPG)

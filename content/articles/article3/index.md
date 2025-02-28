@@ -1,45 +1,24 @@
 ---
 title: Blood Donation Program
 tags: ['Donation', 'Blood', "Blood Donation"]
-excerpt: मानवताका लागि हामी संस्थाले २०७३ जेठ ३२ गते विश्व रक्तदाता दिवसको अवसरमा चरिकोट हस्पिटल दोलखाको सहयोगमा रक्तदान कार्यक्रम आयोजना गरी १९ जनाले रक्तदान गरेका थिए। संस्थाका पदाधिकारी, सदस्यहरू, तथा अतिथिहरूको उपस्थिति एवं समर्पणका साथ कार्यक्रम सफलतापूर्वक सम्पन्न भयो।
+excerpt: We For Humanity organized a blood donation program on the occasion of World Blood Donor Day on May 17, 2016, with the support of Charikot Hospital, Dolakha, where 19 individuals donated blood. The program was successfully completed with the presence and dedication of the organization’s officials, members, and guests.
 createdAt: 2016-06-14 11:26:00
 
 ---
 
-## रक्तदान कार्यक्रम प्रतिवेदन
+## Blood donation Program Report
 
-**नेपालको आज जन स्थिति परिस्थिती** छ त्यसलाई ठिक गर्न
-हामी कुनै पनि निकायको मुख ताक्ने भन्दा हामी आफै सकारात्मक
-सोचविचार भएका असल नितिन चरित्रवान, इमान्दार समाजक।
-नवयुवाहरूको समावेगमा "मानवताका लागि हामी" संस्थाले मिति
-२०७३ जेठ ३२ गते विश्व रक्तदाता दिवसको अवसर पारि समाजका
-ति व्यक्तिहरु जसले रगतको अभावमा जीवन र मृत्युसंग लडिरहेका
-छन् उनीहरुको हकहित र जीवन बचाउको निम्ती चरिकोट
-हस्पिटल चरिकोट दोलखाको सहयोगमा १ दिने रक्तदान कार्यक्रम
-सञ्चालन गरिएको छ।
-विहान 8:30 बजे सम्म यस संस्थाका अध्यक्ष श्री खराज खतिवडा
-उपाध्यक्ष श्री धनराज तामाङ, सचिव सुश्री बानी कुमारी थामी
-कोषाध्यक्ष श्री संगम भण्डारी सदस्यहरू श्री सुरेन्द्र गैलागाई,
-श्री प्रवेश थापा, श्री रखिन सुवेदी खत्री स्वस्थानी चौलागाई
-सुश्री मनिषा के.सी एवम संस्थाको संस्थापक सदस्यहरू श्री विपिन
-सुवेदी, श्री केशव काफ्ले, श्री हिमाल वस्नेत लगायतका सक्रिय
-सदस्यहरू श्री कालिन्चोक उच्च माध्यमिक विद्यालय परिसर शीघ्र
-जम्मा भई 6:00 बजे सम्म थानूर लगाउने, फुसी तथा टेवलको
-व्यवस्था गर्ने, खाजाको व्यवस्था गर्ने, रक्तदान गर्न इच्छुक तयालाको
-नाम संकलन गर्ने जस्ता कार्यहरु गरियो। 6:00 बजे प्राथमिक
-चरिकोट हस्पिटलका प्रतिनिधि की लक्ष्मण रेग्मी सहित मिसति
-सुनन। पोखरेल, संगिता महत, सावित्री खत्री उपस्थित हुनभयो।
-१५ मिनेटको कार्यक्रमको व्यवस्थापन पछि औपचारिक रूपमा
-रक्तदान कार्यक्रमको शुरुवात यसै संस्थाका उपाध्यक्ष श्री धनराज
-तामाङको उद्घाटनबाट सुरु भयो। यस संस्थाको अध्यक्ष भी
-सरोन खतिवडाको सभापतित्वमा भएको यस कार्यक्रमम
-अतिथीको रुपमा कालिन्चोक उच्च मा.वि एवम चरिकोट बहुपुरि
-क्याम्पसका प्राध्यापकहरू श्री चन्द्रप्रकाश, श्री महेश घिमिरे, श्री दिपक वस्नेत तथा किमती माया घिमिरे उपस्थित हुनु भएको थियो।
+**In Nepal's current situation**, instead of waiting for help, we should take action with a positive mindset, good character, and honesty. On May 17, 2016, We For Humanity organized a one-day blood donation program to support people who are struggling due to a shortage of blood, in collaboration with Charikot Hospital, Charikot, Dolakha.
 
-उहाँहरूको उपास्पन ग्रहण प्रज्चात रक्तदान गर्न उत्प्रेरणा प्रदान गर्न छोटि रक्तदान सम्बन्धि मन्तब्य श्री लक्ष्मण रेग्मीद्वारा गरियो। उक्त मन्तव्य पश्चात यस कालिन्चोक उच्च मा.वि को प्राध्यापक श्री चन्द्रप्रकाश घिमिरेबाट रक्तदानको सुरुवात गरियो। त्यसपछि ऋण: श्री कृष्ण तामाढ़, सुश्री कला कुमारी खत्री, स्पृश्री बजना प्राखिन, श्री विपिन सुवेदी, सुनी सविता सुनुवार, सुश्री दिपूगालिका श्रेष्ठ, सी. हेमन्त राई, श्री सोनाम शेर्ण भी फेशव काफ्ले सुश्री करुणा सिवाकोटि, श्री संगम भण्डारी, श्री हिमाल बस्ने ? श्री अमृत श्रेष्ठ, श्री सुगम बस्नेत, श्री गठिन थाण, श्री विमल रोक्का श्री प्रविन पाठक र सुरज गाह गरि १९ जनाको आफ्नो अमुल्य रगत दान गर्नुभएको छ। रक्तदान कार्यपछि संस्थाको छाप सहितको सम्मान पप्त श्री सरोज खतिवडाबाट वितरण गरि विधिवत रुपमा यस कार्यक्रमको अन्त्य गरियो।
+The event started at 8:30 AM with the participation of the organization's president Mr. Saroj Khatiwada, vice president Mr. Dhanraj Tamang, secretary Ms. Bani Kumari Thami, treasurer Mr. Sangam Bhandari, members Mr. Surendra Galagai, Mr. Pravesh Thapa, Mr. Rakhin Suvedi Khatri, Ms. Manisha KC, along with founding members Mr. Bipin Suvedi, Mr. Keshav Kafle, and Mr. Himal Basnet. They gathered at the Kalinchok Higher Secondary School to arrange seating, food, and collect names of those willing to donate blood.
 
+At 6:00 PM, representatives from Charikot Hospital, including Laxman Regmi, Mishti Sunan Pokhrel, Sangita Mahat, and Sabitra Khatri, arrived. After a short introduction, the program was officially started by Mr. Dhanraj Tamang, the vice president of We For Humanity. The event was led by Mr. Saroj Khatiwada, the president, and attended by professors from Kalinchok Higher Secondary School and Charikot Multi-Purpose Campus, Mr. Chandraprakash, Mr. Mahesh Ghimire, Mr. Deepak Basnet, and Kimati Maya Ghimire.
 
-### कार्यक्रमका केही झलकहरू / तस्वीरहरू
+After the speeches, Laxman Regmi encouraged everyone to donate blood. The blood donation started with Professor Mr. Chandraprakash Ghimire. Following him, 19 people donated blood, including Krishna Tamang, Kala Kumari Khatri, Bajna Prakhin, Bipin Suvedi, Savita Sunuwar, Dipu Gaalika Shrestha, Hemant Rai, Sonam Sherpa, Bishal Kafle, Karuna Sibakoti, Sangam Bhandari, Himal Basnet, Amrit Shrestha, Sugam Basnet, Gathin Than, Bimal Rokka, Pravin Pathak, and Suraj Gah.
+
+The program ended with the distribution of certificates and appreciation by Mr. Saroj Khatiwada, marking the official end of the event.
+
+### Program Highlights / Photos
 
 * Blood donors at WFH ![Blood donors at WFH](/images/programs/blood_donation_2073/all_blood_donors_at_wfh.jpg)
 * Blood donation by Himal Basnet and Sangam Bhandari ![Blood donors at WFH](/images/programs/blood_donation_2073/blood_donated_by_himal_basnet_and_sangam_bhandari.JPG)
