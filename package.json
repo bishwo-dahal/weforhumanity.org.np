@@ -20,7 +20,8 @@
     "prism-themes": "^1.7.0",
     "tailwindcss": "^2.1.2",
     "tailwindcss-aspect-ratio": "^3.0.0",
-    "v-click-outside": "^3.1.2"
+    "v-click-outside": "^3.1.2",
+    "vue-carousel": "^0.18.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",

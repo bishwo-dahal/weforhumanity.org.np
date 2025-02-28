@@ -20,6 +20,5 @@ Then, from 10:30 AM to 11:00 AM, the members of We For Humanity and local people
 * Food collection ![Food Collection](/images/programs/food_donation_2073/food_collection_program.jpg)
 * Food collection team ![Food collection team](/images/programs/food_donation_2073/food_collection_team.jpg)
 ### Food Distribution
-
 * Food Distribution to special abled people ![Food Distribution to special abled people ](/images/programs/food_donation_2073/distributed_food_to_needy.JPG)
 * Food Donation Program![Food Donation](/images/programs/food_donation_2073/food_donation_program.JPG)

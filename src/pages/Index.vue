@@ -6,17 +6,18 @@
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
-          मनब्ता को लागि हामी 
+          We for Humanity 
         </p>
         <p class="text-lg md:text-2xl">
-          Help others and grow!
+          We can!
         </p>
       </template>
     </PageHeader>
+
+    <SectionImageCarousel class="py-10"/>
     <div class="container text-center mx-auto">
       <SectionLatestArticles />
     </div>
-
     <SectionContribute />
     <SectionCompanyProfileLists />
 
@@ -40,6 +41,8 @@ import SectionContribute from '~/components/sections/Contribute'
 import SectionThinkDifferent from '~/components/sections/ThinkDifferent'
 import SectionCompanyProfileLists from '~/components/sections/CompanyProfileLists'
 import SectionOpenSource from '~/components/sections/OpenSource'
+import SectionImageCarousel from '~/components/sections/ImageCarousel'
+
 
 export default {
   metaInfo: {
@@ -52,7 +55,8 @@ export default {
     SectionContribute,
     SectionThinkDifferent,
     SectionOpenSource,
-    SectionCompanyProfileLists
+    SectionCompanyProfileLists,
+    SectionImageCarousel
   }
 };
 </script>
