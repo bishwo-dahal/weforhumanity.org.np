@@ -21,7 +21,7 @@
           </p>
           <p class="text-center mt-8">
             <g-link
-              to="/articles"
+              to="/donors"
               class="bg-smalt-blue-500 rounded p-4 text-white hover:bg-smalt-blue-600 transition-colors duration-100">
               Visit our Donors
             </g-link>
