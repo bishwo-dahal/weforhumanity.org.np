@@ -91,24 +91,6 @@ module.exports = {
       }
     },
     {
-      use: '@gridsome/source-filesystem',
-      options: {
-        typeName: 'Resource',
-        baseDir: './content/resources',
-        path: '*.md',
-        refs: {
-          tags: {
-            typeName: 'ResourceTag',
-            create: true
-          },
-          type: {
-            typeName: 'ResourceType',
-            create: true
-          }
-        }
-      }
-    },
-    {
       use: 'gridsome-plugin-flexsearch',
       options: {
         searchFields: ['title', 'excerpt', 'content'],
@@ -149,20 +131,6 @@ module.exports = {
         component: './src/templates/CustomPage.vue'
       }
     ],
-    ResourceType: [
-      {
-        name: 'resourcesByType',
-        path: '/resources/filter/type/:title',
-        component: './src/templates/ResourceTypeFilter.vue'
-      }
-    ],
-    ResourceTag: [
-      {
-        name: 'resourcesByType',
-        path: '/resources/filter/tag/:title',
-        component: './src/templates/ResourceTagFilter.vue'
-      }
-    ]
   },
   transformers: {
     remark: {

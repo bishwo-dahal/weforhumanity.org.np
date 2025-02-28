@@ -36,10 +36,10 @@
           </g-link>
         </li><li>
           <g-link
-            to="/resources"
+            to="/donate"
             class="inline-block mb-5"
             exact>
-            Resources
+            Donate
           </g-link>
         </li><li>
           <g-link

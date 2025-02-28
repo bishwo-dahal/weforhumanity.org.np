@@ -24,10 +24,10 @@
           Articles
         </g-link>
         <g-link
-          to="/resources"
+          to="/donate"
           class="mr-5 hidden md:block"
           exact>
-          Resources
+          Donate
         </g-link>
         <g-link
           to="/news"
