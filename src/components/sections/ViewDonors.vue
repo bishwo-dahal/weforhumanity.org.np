@@ -13,18 +13,17 @@
         <div
           class="text-xl font-medium title-font w-full md:w-1/2 py-12 md:py-0">
           <h3 class="text-4xl lg:text-6xl text-center">
-            Th!nk different
+            See our contributors & Donors
           </h3>
           <p class="px-4 text-xl lg:text-2xl">
-            Sometimes you need a different perspective to achieve your goal.
-            <br>
-            With our articles, we want to help you to see your challenges from a different perspective and to solve them faster.
+            We appreciate every donors, volunteers, and contributors who has contributed to our mission.
+            <br> Visit our donors page for more information.
           </p>
           <p class="text-center mt-8">
             <g-link
               to="/articles"
               class="bg-smalt-blue-500 rounded p-4 text-white hover:bg-smalt-blue-600 transition-colors duration-100">
-              Browse all articles
+              Visit our Donors
             </g-link>
           </p>
         </div>

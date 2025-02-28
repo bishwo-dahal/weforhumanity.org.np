@@ -21,7 +21,7 @@
     <SectionContribute />
     <SectionCompanyProfileLists />
 
-    <SectionThinkDifferent />
+    <SectionViewDonors />
     
     <div class="container text-center mx-auto">
       <SectionLatestNews />
@@ -38,7 +38,7 @@ import PageHeader from '~/components/PageHeader'
 import SectionLatestArticles from '~/components/sections/LatestArticles'
 import SectionLatestNews from '~/components/sections/LatestNews'
 import SectionContribute from '~/components/sections/Contribute'
-import SectionThinkDifferent from '~/components/sections/ThinkDifferent'
+import SectionViewDonors from '~/components/sections/ViewDonors'
 import SectionCompanyProfileLists from '~/components/sections/CompanyProfileLists'
 import SectionOpenSource from '~/components/sections/OpenSource'
 import SectionImageCarousel from '~/components/sections/ImageCarousel'
@@ -53,7 +53,7 @@ export default {
     SectionLatestArticles,
     SectionLatestNews,
     SectionContribute,
-    SectionThinkDifferent,
+    SectionViewDonors,
     SectionOpenSource,
     SectionCompanyProfileLists,
     SectionImageCarousel
