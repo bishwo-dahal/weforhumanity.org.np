@@ -1,6 +1,6 @@
 ---
 title: Bishwo Dahal
-link: https://www.bishwowdahal.com
+link: https://www.bishwodahal.com
 ---
 
 For developing website. 
