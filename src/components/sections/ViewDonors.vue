@@ -4,8 +4,8 @@
       <div class="flex flex-wrap items-center mx-auto text-center md:flex-row-reverse">
         <div class="w-full md:w-1/2 text-2xl relative md:min-h-50vh flex justify-center pt-12 md:pt-0">
           <g-image
-            class="md:object-cover md:absolute md:top-0 md:left-0 md:w-full md:h-full w-64 h-64"
-            src="~/assets/images/brainstorming.svg"
+            class="md:object-contain md:absolute md:top-0 md:left-0 md:w-full md:h-full w-64 h-64"
+            src="~/assets/images/donors_wfh.svg"
             width="400"
             alt="Think different" />
         </div>
