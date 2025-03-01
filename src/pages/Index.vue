@@ -29,7 +29,6 @@
 
     
 
-    <SectionOpenSource />
   </Layout>
 </template>
 
@@ -40,7 +39,6 @@ import SectionLatestNews from '~/components/sections/LatestNews'
 import SectionContribute from '~/components/sections/Contribute'
 import SectionViewDonors from '~/components/sections/ViewDonors'
 import SectionCompanyProfileLists from '~/components/sections/CompanyProfileLists'
-import SectionOpenSource from '~/components/sections/OpenSource'
 import SectionImageCarousel from '~/components/sections/ImageCarousel'
 
 
@@ -54,7 +52,6 @@ export default {
     SectionLatestNews,
     SectionContribute,
     SectionViewDonors,
-    SectionOpenSource,
     SectionCompanyProfileLists,
     SectionImageCarousel
   }
