@@ -1,7 +1,7 @@
 ---
-title: wfh founders list
+title: WFH Founders List
 tags: ["founders", "establishment"]
-excerpt: We For Humanity organized a blood donation program on the occasion of World Blood Donor Day on May 17, 2016, with the support of Charikot Hospital, Dolakha, where 19 individuals donated blood. The program was successfully completed with the presence and dedication of the organization’s officials, members, and guests.
+excerpt: Our founders include Saroj Khatiwada, Dhanraj Tamang, Nani Kumari Thami, Karisma Shrestha, Sangam Bhandari, Muna Chaulagain, Swasthani Chaulagain, Surendra Chaulagain, Bipin Subedi, Birkha Gubaju, Archana Shrestha, Binita Oli, Keshav Kafle, Raj Subedi, Babita Shrestha, Suraj Shah, Lila Devi Thapa, Sarita Moktan, Arjun Chaulagain, Himal Basnet, Saraswoti Basnet, Sachina Neupane, Manita Kaafle, Dipendra Subedi, Sabin Karki, Prabesh Thapa, Manisha K.C., Saroj Khatri, Rasin Subedi, Jyoti Karki, Kopila Shrestha
 createdAt: 2025-01-10 11:26:00
 
 ---
