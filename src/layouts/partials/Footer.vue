@@ -12,21 +12,22 @@
           <span>
             © {{ currentYear }} {{ $static.metadata.siteName }}
           </span>
-          <span class="text-white underline">
+          <span class="text-white">
             <a href="mailto:weforhumanity05@gmail.com">weforhumanity05@gmail.com</a>
           </span>
+          <span class="text-white underline"><a href="https://www.bishwodahal.com"> Developed with ❤️ by  Bishwo Dahal</a></span>
         </div>
         <div class="footer-links inline-flex md:ml-auto md:mt-0 mt-4 justify-center md:justify-start">
           <g-link
-            to="/pages/sample-page-1"
+            to="/donors"
             class="mr-4">
-            Sample Page 1
+            Donors List
           </g-link>
 
           <g-link
-            to="/pages/sample-page-2"
+            to="/pages/developers-info"
             class="mr-4">
-            Sample Page 2
+            Developer's Info
           </g-link>
 
           <g-link to="/credits">
