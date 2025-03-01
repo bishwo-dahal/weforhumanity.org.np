@@ -9,6 +9,7 @@ sidebar: true
 
 ## Developer Info
 ### Bishwo Dahal 
+![Photo of Bishwo Dahal](/images/team/bishwo_dahal.jpg)
 Bishwo Dahal is a passionate Software Developer and Computer Science student at the University of Louisiana at Monroe. With experience in full-stack development, High Performance Computing and cloud computing he contributes to **We For Humanity** by improving its online presence and securing funding opportunities through our website and social media.
 
 Bishwo Dahal has gained valuable experience at Oak Ridge National Laboratory in Tennessee. As a Software Engineer Intern and Research Intern, he worked with container solutions like Apptainer to evaluate the performance difference of machine learning on native platform and containerized platform. Additionally, Bishwo led the Google Developer Student Clubs at the University of Louisiana at Monroe(2023-2024), where he led multiple events including hackathons and webinars. 
