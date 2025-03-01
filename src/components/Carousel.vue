@@ -4,12 +4,14 @@
       @touchstart="handleTouchStart"
       @touchmove="handleTouchMove"
       @touchend="handleTouchEnd"
+      @mouseenter="stopAutoplay"
+      @mouseleave="startAutoplay"
     >
       <div class="carousel">
         <div class="carousel-inner" :style="{ transform: `translateX(-${currentIndex * 100}%)` }">
           <div class="carousel-item" v-for="(slide, index) in slides" :key="index">
             <div class="background-overlay" :style="{ backgroundImage: `url(${slide.image})` }"></div>
-            <img :src="slide.image" :alt="slide.caption">
+            <img :src="slide.image" :alt="slide.caption" @load="imageLoaded">
           </div>
         </div>
         <div class="carousel-caption">{{ slides[currentIndex].caption }}</div>
@@ -61,7 +63,8 @@
         currentIndex: 0,
         interval: null,
         startX: 0,
-        endX: 0
+        endX: 0,
+        isImageLoaded: false
       };
     },
     mounted() {
@@ -74,10 +77,13 @@
     },
     methods: {
       startAutoplay() {
-        this.interval = setInterval(this.next, 3000);
+        if (this.autoplay) {
+          this.interval = setInterval(this.next, 3000);
+        }
       },
       stopAutoplay() {
         clearInterval(this.interval);
+        this.interval = null;
       },
       prev() {
         if (this.currentIndex > 0) {
@@ -107,6 +113,16 @@
           this.next();
         } else if (this.startX < this.endX - 50) {
           this.prev();
+        }
+      },
+      imageLoaded() {
+        this.isImageLoaded = true;
+      }
+    },
+    watch: {
+      isImageLoaded(newValue) {
+        if (newValue) {
+          this.$el.querySelector('.carousel-inner').style.transition = 'transform 0.8s cubic-bezier(0.25, 0.1, 0.25, 1)';
         }
       }
     }
@@ -152,7 +168,7 @@
     height: 100%;
     background-size: cover;
     background-position: center;
-    filter: blur(20px);
+    filter: blur(10px);
     z-index: -1;
     opacity: 0.8;
   }
