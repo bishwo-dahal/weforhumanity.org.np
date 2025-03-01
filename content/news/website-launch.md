@@ -1,5 +1,5 @@
 ---
-title: WFH website launch
+title: Website launch
 tags: website, development, launch 
 excerpt: We are excited to launch our official website, "weforhumanity.com.np", on March, 2025. This website will provide volunteers information about our mission, projects, and opportunities to get involved. 
 createdAt: 2025-02-28 06:30:00
