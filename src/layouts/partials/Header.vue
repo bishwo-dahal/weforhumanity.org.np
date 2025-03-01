@@ -4,7 +4,6 @@
       <g-link
         to="/"
         class="flex title-font font-medium items-center">
-        <!--TODO: SVG image -->
         <g-image src="~/favicon.png" width="60" />
 
         <span class="ml-2 text-xl">{{ $static.metadata.siteName }}</span>
