@@ -74,15 +74,7 @@ import PageHeader from '~/components/PageHeader'
       return {
         donors: [
           {
-            name: "All Founding members",
-            avatarUrl: "/images/donors/wfh.png",
-            date: "2016/01/20",
-            type: "Volunteer",
-            donation:"रू 1,000 each",
-            programs:"NGO setup"
-          },
-          {
-            name: "Bhimeshwar 5 residents",
+            name: "Bhimeshwar-5 residents",
             date: "2016/04/23",
             type: "Material Donation",
             donation:"24 KGs Wheat, 20Kgs Potatoes, 6 KGs Rice, 2KGs Lentils",
@@ -90,7 +82,7 @@ import PageHeader from '~/components/PageHeader'
             avatarUrl:"none"
           },
           {
-            name: "Bhimeshwar 5 residents",
+            name: "Bhimeshwar-5 residents",
             date: "2016/04/23",
             type: "Monetary Donation",
             donation:"रू 3,780",
