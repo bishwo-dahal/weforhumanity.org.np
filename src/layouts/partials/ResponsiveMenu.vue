@@ -48,7 +48,16 @@
             exact>
             News
           </g-link>
-        </li><li>
+        </li>
+        <li>
+          <g-link
+            to="/news/wfh-founders-list"
+            class="inline-block mb-5"
+            exact>
+            Founders
+          </g-link>
+        </li>
+        <li>
           <g-link
             to="/pages/contribute"
             class="inline-block mb-5"

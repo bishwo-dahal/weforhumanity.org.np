@@ -35,6 +35,12 @@
           News
         </g-link>
         <g-link
+          to="/news/wfh-founders-list"
+          class="mr-5 hidden md:block"
+          exact>
+          Founders
+        </g-link>
+        <g-link
           to="/pages/contribute"
           class="mr-5 hidden md:block"
           exact>
