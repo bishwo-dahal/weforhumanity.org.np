@@ -57,7 +57,46 @@ export default {
 
   metaInfo () {
     return {
-      title: this.$page.entry.title
+      title: this.$page.entry.title,
+      titleTemplate:"%s | We For Humanity",
+      meta:[
+        {
+          name:"developer",
+          content:"Bishwo Dahal"
+        }, 
+        {
+          property:'description',
+          content:this.$page.entry.excerpt || this.$page.entry.title
+        },
+        {
+          property:'keywords',
+          content:this.$page.entry.tags.map(arr=>arr.title).join(',')
+        },
+        {
+          property:'og:title',
+          content:`${this.$page.entry.title} | We For Humanity`
+        },
+        {
+          property:'og:description',
+          content:this.$page.entry.excerpt || this.$page.entry.title
+        },
+        {
+          property:'og:image',
+          content:this.$page.entry.thumbnail
+        },
+        {
+          property:'twitter:title',
+          content:`${this.$page.entry.title} | We For Humanity`
+        },
+        {
+          property:'twitter:description',
+          content:this.$page.entry.excerpt || this.$page.entry.title
+        },
+        {
+          property:'twitter:image',
+          content:this.$page.entry.thumbnail
+        },
+      ]
     };
   }
 };
