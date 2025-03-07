@@ -3,6 +3,8 @@ title: Contribute
 subtitle: What you give, is what you get
 image: donate_make_a_change.jpg
 sidebar: true
+excerpt: Get involved with We For Humanity by donating, volunteering, or raising awareness. Every contribution helps make a difference in the lives of those in need.
+Keywords: contribute, donate, volunteer, charity, fundraising, humanitarian aid, nonprofit, support, community help, We For Humanity, social work
 ---
 
 # Start Contributing Today!

@@ -57,6 +57,7 @@ module.exports = function (api) {
     if (options.internal.typeName === 'CustomPage') {
       options.recordType = options.internal.typeName;
       options.sidebar = !!(options.sidebar);
+      options.keywords = (typeof options.keywords === 'string') ? options.keywords.split(',').map(string => string.trim()) : options.keywords;
       return {
         ...options
       };

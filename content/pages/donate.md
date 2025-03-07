@@ -3,6 +3,8 @@ title: Donate
 subtitle: Share a little to have bigger impact
 image: donate_make_a_change.jpg
 sidebar: true
+keywords: donate, fund, volunteer, WFH, fundraising
+excerpt: Support We For Humanity by donating money or materials to help provide food, education, and healthcare to those in need. Every contribution counts!
 ---
 
 # Start helping Today!

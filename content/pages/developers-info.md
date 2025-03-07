@@ -3,6 +3,9 @@ title: Developers info
 subtitle: Meet the developer behind this project
 image: developers_background.jpg
 sidebar: true
+excerpt: Bishwo Dahal, a Software Developer and Computer Science student, enhances We For Humanity’s online presence using Vue.js, Tailwind CSS, and Gridsome.  
+keywords: Bishwo Dahal, software developer, computer science, web development, Vue.js, Tailwind CSS, Gridsome, cloud computing, We For Humanity, full-stack development, Oak Ridge National Laboratory, Google Developer Student Clubs, machine learning, DevOps, AWS, Git CI/CD  
+
 ---
 
 # Development team of WFH website
