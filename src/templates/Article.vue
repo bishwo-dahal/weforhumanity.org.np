@@ -38,6 +38,7 @@
       title
       content,
       excerpt,
+      thumbnail,
       createdAt(format:"Do MMMM YYYY"),
       timeToRead,
       tags {

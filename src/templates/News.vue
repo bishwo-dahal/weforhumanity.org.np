@@ -40,6 +40,7 @@
       excerpt,
       createdAt(format:"Do MMMM YYYY"),
       timeToRead,
+      thumbnail,
       tags {
           title,
           path

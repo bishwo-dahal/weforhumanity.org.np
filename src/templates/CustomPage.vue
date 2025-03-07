@@ -56,6 +56,7 @@
       subtitle
       excerpt
       keywords
+      thumbnail
       image
       content
       sidebar
