@@ -43,7 +43,7 @@ import SectionImageCarousel from '~/components/sections/ImageCarousel'
 
 const mainPageExcerpt = "We For Humanity is a Nepal-based nonprofit organization dedicated to helping those in need through donations, volunteering, and community support.";
 const mainPageKeywords = "We For Humanity, Nepal NGO, nonprofit organization, charity in Nepal, humanitarian aid, donations, volunteering, fundraising, community service, social impact, food distribution, education support, healthcare assistance, social welfare, support the needy, make a difference";
-const mainPageImage = "/images/thumbnail/first_annual_meeting.JPG"
+const mainPageImage = "/images/thumbnail/default.jpg"
 
 export default {
   metaInfo: {
