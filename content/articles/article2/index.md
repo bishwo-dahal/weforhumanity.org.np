@@ -3,6 +3,7 @@ title: Food Donation Program
 tags: ['Food','Donate', 'Food Donation']
 excerpt: We For Humanity organized a food donation collection program on April 24, 2016, for the affected and disabled communities, using local resources and collecting support. The program was successfully completed with the participation of the organization’s officials, members, and local individuals, collecting various food items and financial contributions.
 createdAt: 2016-04-23 11:26:00
+thumbnail: /images/programs/food_donation_2073/distributed_food_to_needy.JPG
 ---
 
 ## Food Donation Report
