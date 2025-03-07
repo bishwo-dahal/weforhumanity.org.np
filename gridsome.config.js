@@ -25,6 +25,7 @@ var embedConfig = {
 module.exports = {
   siteName: 'We for Humanity',
   siteDescription:"",
+  siteUrl:"https://weforhumanity.org.np",
   permalinks: {
     trailingSlash: false
   },

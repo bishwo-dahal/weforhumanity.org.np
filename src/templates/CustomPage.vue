@@ -41,6 +41,14 @@
   </Layout>
 </template>
 
+<static-query>
+  query{
+    metadata{
+      siteUrl
+    }
+  }
+</static-query>
+
 <page-query>
   query ($id: ID!) {
     entry : customPage(id: $id) {
@@ -71,6 +79,8 @@ export default {
   },
 
   metaInfo () {
+    const thumbnailImage = this.$static.metadata.siteUrl + (this.$page.entry.thumbnail || '/images/thumbnail/default.jpg');
+
     return {
       title: this.$page.entry.title,
       titleTemplate:"%s | We For Humanity",
@@ -97,7 +107,7 @@ export default {
         },
         {
           property:'og:image',
-          content:this.$page.entry.thumbnail || "/images/thumbnail/default.jpg"
+          content:thumbnailImage
         },
         {
           property:'twitter:title',
@@ -109,7 +119,7 @@ export default {
         },
         {
           property:'twitter:image',
-          content:this.$page.entry.thumbnail || "/images/thumbnail/default.jpg"
+          content:thumbnailImage
         },
       ]
     };
