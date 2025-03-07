@@ -97,7 +97,7 @@ export default {
         },
         {
           property:'og:image',
-          content:this.$page.entry.image
+          content:this.$page.entry.thumbnail || "/images/thumbnail/default.jpg"
         },
         {
           property:'twitter:title',
@@ -109,7 +109,7 @@ export default {
         },
         {
           property:'twitter:image',
-          content:this.$page.entry.image
+          content:this.$page.entry.thumbnail || "/images/thumbnail/default.jpg"
         },
       ]
     };
