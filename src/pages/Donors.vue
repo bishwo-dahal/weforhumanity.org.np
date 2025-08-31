@@ -90,6 +90,22 @@ import PageHeader from '~/components/PageHeader'
             avatarUrl:"none"
           },
           {
+            name: "Pratik Pokharel",
+            avatarUrl: "/images/donors/pratik_pokharel.avif",
+            date: "2025/02/25",
+            type: "Monetary Donation",
+            donation:"Provided monetary donation for conducting programs",
+            programs:"Local Material Distribution"
+          },
+          {
+            name: "Nabin Neupane",
+            avatarUrl: "/images/donors/nabin_neupane.avif",
+            date: "2025/02/25",
+            type: "Monetary Donation",
+            donation:"Provided monetary donation for conducting programs",
+            programs:"Local Material Distribution"
+          },
+          {
             name: "Bishwo Dahal",
             avatarUrl: "/images/donors/bishwo_dahal.jpeg",
             date: "2025/03/05",
