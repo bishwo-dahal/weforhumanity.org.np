@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://weforhumanity.org.np/</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://weforhumanity.org.np/donors</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/articles</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/news</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/credits</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Custom Pages -->
+  <url>
+    <loc>https://weforhumanity.org.np/pages/contribute</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/pages/donate</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/pages/developers-info</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News Articles -->
+  <url>
+    <loc>https://weforhumanity.org.np/news/founders-wfh</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/news/website-launch</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Donor Pages -->
+  <url>
+    <loc>https://weforhumanity.org.np/donors/bishwo-dahal</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/donors/bhimeshwar-5-residents</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/donors/pratik-pokharel</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/donors/nabin-neupane</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Article Pages (based on directory structure) -->
+  <url>
+    <loc>https://weforhumanity.org.np/articles/founding-team</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/articles/article2</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/articles/article3</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sample Pages -->
+  <url>
+    <loc>https://weforhumanity.org.np/pages/sample1</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://weforhumanity.org.np/pages/sample2</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset> 

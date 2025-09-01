@@ -48,6 +48,35 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, // 10 minutes
+        exclude: ['/404', '/search'],
+        config: {
+          '/': {
+            changefreq: 'weekly',
+            priority: 1.0
+          },
+          '/donors': {
+            changefreq: 'weekly',
+            priority: 0.8
+          },
+          '/articles': {
+            changefreq: 'weekly',
+            priority: 0.8
+          },
+          '/news': {
+            changefreq: 'weekly',
+            priority: 0.8
+          },
+          '/credits': {
+            changefreq: 'monthly',
+            priority: 0.6
+          }
+        }
+      }
+    },
+    {
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'CustomPage',

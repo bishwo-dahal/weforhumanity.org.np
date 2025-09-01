@@ -1,0 +1,54 @@
+# Robots.txt for We For Humanity (weforhumanity.org.np)
+# Last updated: 2025
+
+User-agent: *
+Allow: /
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Disallow search result pages (they're dynamic)
+Disallow: /search?
+Disallow: /search/
+
+# Disallow any temporary or development files
+Disallow: /*.tmp$
+Disallow: /*.temp$
+Disallow: /*.bak$
+
+# Allow important directories
+Allow: /articles/
+Allow: /news/
+Allow: /donors/
+Allow: /pages/
+Allow: /tag/
+
+# Sitemap location
+Sitemap: https://weforhumanity.org.np/sitemap.xml
+
+# Crawl delay (optional - be respectful to server)
+Crawl-delay: 1 
