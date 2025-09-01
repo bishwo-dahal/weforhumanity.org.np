@@ -2,12 +2,12 @@
   <Layout>
     <PageHeader>
       <template v-slot:image>
-        <g-image src="~/assets/images/main_page_picture.jpeg"/>
+        <g-image src="~/assets/images/main_page_picture.jpeg" alt="We For Humanity main page image showing our humanitarian work" />
       </template>
       <template v-slot:content>
-        <p class="text-4xl md:text-6xl">
+        <h1 class="text-4xl md:text-6xl">
           We for Humanity 
-        </p>
+        </h1>
         <p class="text-lg md:text-2xl">
           We can!
         </p>

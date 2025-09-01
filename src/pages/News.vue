@@ -2,12 +2,12 @@
   <Layout>
     <PageHeader>
       <template v-slot:image>
-        <g-image src="~/assets/images/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg" />
+        <g-image src="~/assets/images/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg" alt="News header image representing our latest updates and announcements" />
       </template>
       <template v-slot:content>
-        <p class="text-4xl md:text-6xl">
+        <h1 class="text-4xl md:text-6xl">
           News
-        </p>
+        </h1>
         <p
           class="text-lg md:text-2xl">
           We have currently {{ $page.records.totalCount }} entries in our list
@@ -64,7 +64,25 @@ import Pagination from '~/components/Pagination'
 
 export default {
   metaInfo: {
-    title: 'Browse News'
+    title: 'News | We For Humanity',
+    meta: [
+      {
+        name: 'description',
+        content: 'Stay updated with the latest news, announcements, and updates from We For Humanity about our humanitarian work and community programs.'
+      },
+      {
+        property: 'og:title',
+        content: 'News | We For Humanity'
+      },
+      {
+        property: 'og:description',
+        content: 'Stay updated with the latest news, announcements, and updates from We For Humanity about our humanitarian work and community programs.'
+      },
+      {
+        property: 'og:type',
+        content: 'website'
+      }
+    ]
   },
   components: {
     PageHeader,

@@ -2,6 +2,9 @@
   <Layout>
     <PageHeader>
       <template v-slot:content>
+        <h1 class="text-4xl md:text-6xl mb-4">
+          Search
+        </h1>
         <div class="bg-white shadow p-4 flex m-4">
           <span class="w-auto flex justify-end items-center text-gray-500 p-2">
             <svg
@@ -114,7 +117,25 @@ export default {
     PageHeader
   },
   metaInfo: {
-    title: 'Search'
+    title: 'Search | We For Humanity',
+    meta: [
+      {
+        name: 'description',
+        content: 'Search through articles, news, and content from We For Humanity. Find information about our humanitarian work, programs, and community initiatives.'
+      },
+      {
+        property: 'og:title',
+        content: 'Search | We For Humanity'
+      },
+      {
+        property: 'og:description',
+        content: 'Search through articles, news, and content from We For Humanity. Find information about our humanitarian work, programs, and community initiatives.'
+      },
+      {
+        property: 'og:type',
+        content: 'website'
+      }
+    ]
   },
   data () {
     return {

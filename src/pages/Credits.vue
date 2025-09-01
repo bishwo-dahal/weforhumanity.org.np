@@ -2,12 +2,12 @@
   <Layout>
     <PageHeader>
       <template v-slot:image>
-        <g-image src="~/assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg" />
+        <g-image src="~/assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg" alt="Credits header image representing gratitude and appreciation" />
       </template>
       <template v-slot:content>
-        <p class="text-4xl md:text-6xl">
+        <h1 class="text-4xl md:text-6xl">
           Thank you
-        </p>
+        </h1>
         <p
           class="text-lg md:text-2xl">
           for everyone helping build our website!
@@ -69,7 +69,25 @@ import RecordCard from '~/components/RecordCard'
 
 export default {
   metaInfo: {
-    title: 'Credits'
+    title: 'Credits | We For Humanity',
+    meta: [
+      {
+        name: 'description',
+        content: 'Thank you to everyone who helped build the We For Humanity website. Credits and acknowledgments for contributors and supporters.'
+      },
+      {
+        property: 'og:title',
+        content: 'Credits | We For Humanity'
+      },
+      {
+        property: 'og:description',
+        content: 'Thank you to everyone who helped build the We For Humanity website. Credits and acknowledgments for contributors and supporters.'
+      },
+      {
+        property: 'og:type',
+        content: 'website'
+      }
+    ]
   },
   components: {
     PageHeader,

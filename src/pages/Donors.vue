@@ -5,9 +5,9 @@
         <g-image src="~/assets/images/multiple_hand_donors_heart.jpg" alt="Donors header image showing multiple hands forming a heart" />
       </template>
       <template v-slot:content>
-        <p class="text-4xl md:text-6xl">
+        <h1 class="text-4xl md:text-6xl">
           Donors
-        </p>
+        </h1>
         <p
           class="text-lg md:text-2xl">
           See our Contributors

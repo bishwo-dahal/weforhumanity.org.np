@@ -2,12 +2,12 @@
   <Layout>
     <PageHeader>
       <template v-slot:image>
-        <g-image src="~/assets/images/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg" />
+        <g-image src="~/assets/images/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg" alt="Articles header image representing our written content and stories" />
       </template>
       <template v-slot:content>
-        <p class="text-4xl md:text-6xl">
+        <h1 class="text-4xl md:text-6xl">
           Articles
-        </p>
+        </h1>
         <p
           class="text-lg md:text-2xl">
           We have currently {{ $page.records.totalCount }} articles in our list
@@ -64,7 +64,25 @@ import Pagination from '~/components/Pagination'
 
 export default {
   metaInfo: {
-    title: 'Browse Articles'
+    title: 'Articles | We For Humanity',
+    meta: [
+      {
+        name: 'description',
+        content: 'Browse our collection of articles about humanitarian work, community service, and social impact stories from We For Humanity.'
+      },
+      {
+        property: 'og:title',
+        content: 'Articles | We For Humanity'
+      },
+      {
+        property: 'og:description',
+        content: 'Browse our collection of articles about humanitarian work, community service, and social impact stories from We For Humanity.'
+      },
+      {
+        property: 'og:type',
+        content: 'website'
+      }
+    ]
   },
   components: {
     PageHeader,

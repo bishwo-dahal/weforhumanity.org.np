@@ -26,7 +26,25 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Page not found',
+    title: 'Page Not Found | We For Humanity',
+    meta: [
+      {
+        name: 'description',
+        content: 'The page you are looking for could not be found. Please check the URL or return to the We For Humanity homepage.'
+      },
+      {
+        property: 'og:title',
+        content: 'Page Not Found | We For Humanity'
+      },
+      {
+        property: 'og:description',
+        content: 'The page you are looking for could not be found. Please check the URL or return to the We For Humanity homepage.'
+      },
+      {
+        property: 'og:type',
+        content: 'website'
+      }
+    ],
     bodyAttrs: {
       class: 'bg-shark-200'
     }

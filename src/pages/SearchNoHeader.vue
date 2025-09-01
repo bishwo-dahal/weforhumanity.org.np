@@ -110,7 +110,25 @@ export default {
     RecordCard
   },
   metaInfo: {
-    title: 'Search'
+    title: 'Search | We For Humanity',
+    meta: [
+      {
+        name: 'description',
+        content: 'Search through articles, news, and content from We For Humanity. Find information about our humanitarian work, programs, and community initiatives.'
+      },
+      {
+        property: 'og:title',
+        content: 'Search | We For Humanity'
+      },
+      {
+        property: 'og:description',
+        content: 'Search through articles, news, and content from We For Humanity. Find information about our humanitarian work, programs, and community initiatives.'
+      },
+      {
+        property: 'og:type',
+        content: 'website'
+      }
+    ]
   },
   data () {
     return {
