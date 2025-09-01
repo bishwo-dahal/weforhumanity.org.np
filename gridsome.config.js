@@ -92,6 +92,14 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'Donor',
+        baseDir: './content/donors',
+        path: '*.md'
+      }
+    },
+    {
       use: 'gridsome-plugin-flexsearch',
       options: {
         searchFields: ['title', 'excerpt', 'content'],
@@ -130,6 +138,12 @@ module.exports = {
       {
         path: '/pages/:title',
         component: './src/templates/CustomPage.vue'
+      }
+    ],
+    Donor: [
+      {
+        path: '/donors/:title',
+        component: './src/templates/Donor.vue'
       }
     ],
   },

@@ -2,7 +2,7 @@
       <Layout>
     <PageHeader>
       <template v-slot:image>
-        <g-image src="~/assets/images/multiple_hand_donors_heart.jpg" />
+        <g-image src="~/assets/images/multiple_hand_donors_heart.jpg" alt="Donors header image showing multiple hands forming a heart" />
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">
@@ -33,15 +33,18 @@
                 </tr>
             </thead>
             <tbody>
-                <tr v-for="(donor,index) in donorsByDate" :key="index">
+                <tr v-for="(donor,index) in donorsByDate" :key="donor.id">
                     <td>{{ index+1 }}.</td>
                     <td class="flex items-center justify-around ">
-                        <span class="px-2">{{ donor.name }}</span>
-                     <img v-if="donor.avatarUrl !=='none'" :src="donor.avatarUrl || '/images/team/placeholder.jpg'" style="margin: 0px;" class="h-12 w-12 rounded-full object-cover"/>
+                        <g-link :to="donor.path" class="hover:text-blue-600 transition-colors">
+                          <span class="px-2">{{ donor.title }}</span>
+                        </g-link>
+                     <img v-if="donor.avatarUrl !=='none'" :src="donor.avatarUrl || '/images/team/placeholder.jpg'" :alt="`${donor.title} - Profile Photo`" style="margin: 0px;" class="h-12 w-12 rounded-full object-cover"/>
+                     <img v-else src="/images/donors/wfh.png" :alt="`${donor.title} - Default Profile Photo`" style="margin: 0px;" class="h-12 w-12 rounded-full object-cover"/>
                  </td>
                     <td>{{ donor.type }}</td>
                     <td>{{ donor.donation }}</td>
-                    <td>{{ donor.date }}</td>
+                    <td>{{ formatDate(donor.date) }}</td>
                     <td>{{ donor.programs }}</td>
 
                 </tr>
@@ -62,6 +65,14 @@
 
   </template>
   
+  <static-query>
+  query{
+    metadata{
+      siteUrl
+    }
+  }
+  </static-query>
+  
   <script>
 import PageHeader from '~/components/PageHeader'
 
@@ -70,58 +81,83 @@ import PageHeader from '~/components/PageHeader'
     components:{
         PageHeader
     },
-    data() {
-      return {
-        donors: [
-          {
-            name: "Bhimeshwar-5 residents",
-            date: "2016/04/23",
-            type: "Material Donation",
-            donation:"24 KGs Wheat, 20Kgs Potatoes, 6 KGs Rice, 2KGs Lentils",
-            programs:"Distribution to specially-abled people",
-            avatarUrl:"none"
-          },
-          {
-            name: "Bhimeshwar-5 residents",
-            date: "2016/04/23",
-            type: "Monetary Donation",
-            donation:"रू 3,780",
-            programs:"Distribution to specially-abled people",
-            avatarUrl:"none"
-          },
-          {
-            name: "Pratik Pokharel",
-            avatarUrl: "/images/donors/pratik_pokharel.avif",
-            date: "2025/02/25",
-            type: "Monetary Donation",
-            donation:"Provided monetary donation for conducting programs",
-            programs:"Local Material Distribution"
-          },
-          {
-            name: "Nabin Neupane",
-            avatarUrl: "/images/donors/nabin_neupane.avif",
-            date: "2025/02/25",
-            type: "Monetary Donation",
-            donation:"Provided monetary donation for conducting programs",
-            programs:"Local Material Distribution"
-          },
-          {
-            name: "Bishwo Dahal",
-            avatarUrl: "/images/donors/bishwo_dahal.jpeg",
-            date: "2025/03/05",
-            type: "Volunteer",
-            donation:"Developed website for WFH",
-            programs:"Website Development"
-          },
-
-        ],
-      };
-    },
     computed:{
         donorsByDate(){
-            return this.donors.sort ((first,second)=>new Date(second.date)-new Date(first.date))
+            return this.$page.donors.edges.map(edge => edge.node).sort((first,second)=>new Date(second.date)-new Date(first.date))
         }
+    },
+    methods: {
+      formatDate(dateString) {
+        const date = new Date(dateString)
+        return date.toLocaleDateString('en-US', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric'
+        })
+      }
+    },
+    metaInfo() {
+      return {
+        title: 'Donors | We For Humanity',
+        meta: [
+          {
+            name: 'description',
+            content: 'Meet our generous donors and contributors who support We For Humanity\'s mission to help communities in need through various programs and initiatives.'
+          },
+          {
+            property: 'og:title',
+            content: 'Donors | We For Humanity'
+          },
+          {
+            property: 'og:description',
+            content: 'Meet our generous donors and contributors who support We For Humanity\'s mission to help communities in need through various programs and initiatives.'
+          },
+          {
+            property: 'og:image',
+            content: this.$static.metadata.siteUrl + '/images/donors/wfh.png'
+          },
+          {
+            property: 'og:type',
+            content: 'website'
+          },
+          {
+            property: 'twitter:title',
+            content: 'Donors | We For Humanity'
+          },
+          {
+            property: 'twitter:description',
+            content: 'Meet our generous donors and contributors who support We For Humanity\'s mission to help communities in need through various programs and initiatives.'
+          },
+          {
+            property: 'twitter:image',
+            content: this.$static.metadata.siteUrl + '/images/donors/wfh.png'
+          },
+          {
+            property: 'twitter:card',
+            content: 'summary_large_image'
+          }
+        ]
+      }
     }
   };
   </script>
+
+  <page-query>
+  query {
+    donors: allDonor {
+      edges {
+        node {
+          id
+          title
+          path
+          date
+          type
+          donation
+          programs
+          avatarUrl
+        }
+      }
+    }
+  }
+  </page-query>
   
