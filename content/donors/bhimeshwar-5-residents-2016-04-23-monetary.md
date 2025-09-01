@@ -1,5 +1,5 @@
 ---
-title: "Bhimeshwar-5 Residents"
+title: "Bhimeshwar-5 Residents Monetary"
 date: "2016-04-23"
 type: "Monetary Donation"
 donation: "रू 3,780"
