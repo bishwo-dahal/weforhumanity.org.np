@@ -5,8 +5,8 @@ type: "Volunteer"
 donation: "Developed website for WFH"
 programs: "Website Development"
 avatarUrl: "/images/donors/bishwo_dahal.jpeg"
-description: "Bishwo Dahal volunteered his technical expertise to develop the We For Humanity website, contributing significantly to our digital presence and outreach capabilities."
-excerpt: "Volunteer contribution from Bishwo Dahal developing the WFH website"
+description: "Bishwo Dahal(Bishow Dahal) volunteered his technical expertise to develop the We For Humanity website, contributing significantly to our digital presence and outreach capabilities."
+excerpt: "Volunteer contribution from Bishwo Dahal(Bishow Dahal) developing the WFH website"
 thumbnail: "/images/donors/bishwo_dahal.jpeg"
 ---
 
@@ -34,7 +34,13 @@ Bishwo's technical contribution has been invaluable to our organization. The web
 
 ## About Bishwo Dahal
 
-Bishwo Dahal is a skilled web developer who believes in using technology for social good. His volunteer work demonstrates how technical skills can be leveraged to support humanitarian causes and create positive impact in the community.
+Bishwo Dahal (also spelled "Bishow Dahal") is a Computer Science senior at the University of Louisiana at Monroe, who is motivated to contribute to the community by developing software solutions to solve real-world problems. 
+
+He has been doing an internship at Oak Ridge National Laboratory (ORNL), where he started as a Research Intern in the System User & Acceptance Group, studying the performance of Containerized Machine Learning & Large Language Model Applications on OLCF systems (Frontier & Odo).
+
+Currently, he is designing an open-source cross-platform HPC simulator dedicated to helping interns understand the concepts of HPC architecture, job submission environments, modules, and slurm inside OLCF systems.
+
+You can learn more about Bishwo's work and projects on his website: [bishwodahal.com](https://bishwodahal.com) or [bishwodahal.com.np](https://bishwodahal.com.np).
 
 ## Technical Contribution
 
